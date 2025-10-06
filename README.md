@@ -9,7 +9,7 @@ Single-page responsive restaurant menu built with semantic HTML and modern CSS. 
 
 ## How to Run
 1. Download or clone the repo:  
-   `git clone https://github.com/priyasharma/restaurant-menu.git`
+   `git clone https://github.com/MahekShaikh16/Restaurant-menu.git`
 2. Open `index.html` in your browser.
 
 ## Technologies Used
@@ -23,3 +23,4 @@ Single-page responsive restaurant menu built with semantic HTML and modern CSS. 
 
 ## Author
 Mahek Shaikh - SRN 02FE23MCA008  
+
